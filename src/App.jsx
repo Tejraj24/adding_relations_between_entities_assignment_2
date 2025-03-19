@@ -5,7 +5,7 @@ import './App.css';
 const initialProducts = [
   {
     id: 1,
-    name: "Wireless Headphones",
+    name: "BEACH",
     description: "High-quality sound with noise cancellation.",
     image: "https://picsum.photos/300/200?random=1",
     avgRating: 4.2,
@@ -13,7 +13,7 @@ const initialProducts = [
   },
   {
     id: 2,
-    name: "Smartwatch",
+    name: "FOREST",
     description: "Track your fitness and notifications.",
     image: "https://picsum.photos/300/200?random=2",
     avgRating: 3.8,
@@ -21,7 +21,7 @@ const initialProducts = [
   },
   {
     id: 3,
-    name: "Portable Speaker",
+    name: "FARM",
     description: "Powerful sound in a compact design.",
     image: "https://picsum.photos/300/200?random=3",
     avgRating: 4.5,
